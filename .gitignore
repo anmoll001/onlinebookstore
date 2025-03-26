@@ -1,2 +1,9 @@
-/target/
-/build/
+#ignore log files
+*.log
+
+#ignore node_modules directory
+node_modules/
+
+
+#ignore environment files
+*.env
